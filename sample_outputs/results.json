@@ -1,0 +1,113 @@
+[
+  {
+    "image": "sample_inputs/abc.png",
+    "text": "abc",
+    "cell_count": 3,
+    "dot_count": 5,
+    "confidence": 0.88,
+    "processing_time_ms": 30.68,
+    "lines": [
+      "abc"
+    ],
+    "patterns_by_line": [
+      [
+        "100000",
+        "110000",
+        "100100"
+      ]
+    ]
+  },
+  {
+    "image": "sample_inputs/good_morning.png",
+    "text": "goodmorning",
+    "cell_count": 11,
+    "dot_count": 37,
+    "confidence": 0.88,
+    "processing_time_ms": 52.7,
+    "lines": [
+      "goodmorning"
+    ],
+    "patterns_by_line": [
+      [
+        "110110",
+        "101010",
+        "101010",
+        "100110",
+        "101100",
+        "101010",
+        "111010",
+        "101110",
+        "010100",
+        "101110",
+        "110110"
+      ]
+    ]
+  },
+  {
+    "image": "sample_inputs/hello.png",
+    "text": "hello",
+    "cell_count": 5,
+    "dot_count": 14,
+    "confidence": 0.88,
+    "processing_time_ms": 23.73,
+    "lines": [
+      "hello"
+    ],
+    "patterns_by_line": [
+      [
+        "110010",
+        "100010",
+        "111000",
+        "111000",
+        "101010"
+      ]
+    ]
+  },
+  {
+    "image": "sample_inputs/i_love_you.png",
+    "text": "i love you",
+    "cell_count": 10,
+    "dot_count": 25,
+    "confidence": 0.88,
+    "processing_time_ms": 39.81,
+    "lines": [
+      "i love you"
+    ],
+    "patterns_by_line": [
+      [
+        "010100",
+        "000000",
+        "111000",
+        "101010",
+        "111001",
+        "100010",
+        "000000",
+        "101111",
+        "101010",
+        "101001"
+      ]
+    ]
+  },
+  {
+    "image": "sample_inputs/test_braille.png",
+    "text": "braille",
+    "cell_count": 7,
+    "dot_count": 17,
+    "confidence": 0.88,
+    "processing_time_ms": 27.96,
+    "lines": [
+      "braille"
+    ],
+    "patterns_by_line": [
+      [
+        "110000",
+        "111010",
+        "100000",
+        "010100",
+        "111000",
+        "111000",
+        "100010"
+      ]
+    ]
+  }
+]
