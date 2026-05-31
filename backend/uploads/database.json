@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1780236559",
+    "timestamp": "2026-05-31 19:39:19",
+    "original_image": "/uploads/20260531_193919_1780236559_orig.jpg",
+    "annotated_image": "/uploads/20260531_193919_1780236559_ann.jpg",
+    "text": "akiaaiosbaiaaieaaaasia\nun\naaaacaaa\naaaaaa:aaa::akkabaaaa\naaaaaaaaaaa:a:aaaaaa\naxha\niaekia:iaaaaaai\nai",
+    "confidence": 0.875,
+    "cell_count": 94,
+    "dot_count": 141,
+    "processing_time": 274.19
+  },
+  {
+    "id": "1780222304",
+    "timestamp": "2026-05-31 15:41:44",
+    "original_image": "/uploads/20260531_154144_1780222304_orig.jpg",
+    "annotated_image": "/uploads/20260531_154144_1780222304_ann.jpg",
+    "text": "s::ws suu sulun suas :n skkkw sknl:bt",
+    "confidence": 0.617,
+    "cell_count": 37,
+    "dot_count": 86,
+    "processing_time": 148.7
+  },
+  {
+    "id": "1780221740",
+    "timestamp": "2026-05-31 15:32:20",
+    "original_image": "/uploads/20260531_153220_1780221740_orig.jpg",
+    "annotated_image": "/uploads/20260531_153220_1780221740_ann.jpg",
+    "text": "s::s saa salan saas :n skkk sknl:bt",
+    "confidence": 0.588,
+    "cell_count": 37,
+    "dot_count": 86,
+    "processing_time": 214.67
+  },
+  {
+    "id": "1780218053",
+    "timestamp": "2026-05-31 14:30:53",
+    "original_image": "/uploads/20260531_143053_1780218053_orig.jpg",
+    "annotated_image": "/uploads/20260531_143053_1780218053_ann.jpg",
+    "text": "s::s saa salan saas :n skkk sknl:bt",
+    "confidence": 0.588,
+    "cell_count": 37,
+    "dot_count": 86,
+    "processing_time": 186.0
+  },
+  {
+    "id": "1780144331",
+    "timestamp": "2026-05-30 18:02:11",
+    "original_image": "/uploads/20260530_180211_1780144331_orig.jpg",
+    "annotated_image": "/uploads/20260530_180211_1780144331_ann.jpg",
+    "text": "cat",
+    "confidence": 0.83,
+    "cell_count": 3,
+    "dot_count": 7,
+    "processing_time": 151.95
+  },
+  {
+    "id": "1780048614",
+    "timestamp": "2026-05-29 15:26:54",
+    "original_image": "/uploads/20260529_152654_1780048614_orig.jpg",
+    "annotated_image": "/uploads/20260529_152654_1780048614_ann.jpg",
+    "text": "tu:s :s a xraat c:ty",
+    "confidence": 0.714,
+    "cell_count": 20,
+    "dot_count": 46,
+    "processing_time": 185.44
+  },
+  {
+    "id": "1780003857",
+    "timestamp": "2026-05-29 03:00:57",
+    "original_image": "/uploads/20260529_030057_1780003857_orig.jpg",
+    "annotated_image": "/uploads/20260529_030057_1780003857_ann.jpg",
+    "text": "tu:s :s a xraat c:ty",
+    "confidence": 0.714,
+    "cell_count": 20,
+    "dot_count": 46,
+    "processing_time": 94.51
+  },
+  {
+    "id": "1780001745",
+    "timestamp": "2026-05-29 02:25:45",
+    "original_image": "/uploads/20260529_022545_1780001745_orig.jpg",
+    "annotated_image": "/uploads/20260529_022545_1780001745_ann.jpg",
+    "text": "tu:ka aaka a xraa kk aaaaty",
+    "confidence": 0.703,
+    "cell_count": 27,
+    "dot_count": 46,
+    "processing_time": 84.87
+  },
+  {
+    "id": "1780001701",
+    "timestamp": "2026-05-29 02:25:01",
+    "original_image": "/uploads/20260529_022501_1780001701_orig.jpg",
+    "annotated_image": "/uploads/20260529_022501_1780001701_ann.jpg",
+    "text": "tu:ka aaka a xraa kk aaaaty",
+    "confidence": 0.703,
+    "cell_count": 27,
+    "dot_count": 46,
+    "processing_time": 131.89
+  },
+  {
+    "id": "1780000201",
+    "timestamp": "2026-05-29 02:00:01",
+    "original_image": "/uploads/20260529_020001_1780000201_orig.jpg",
+    "annotated_image": "/uploads/20260529_020001_1780000201_ann.jpg",
+    "text": "toisisaxreatcity",
+    "confidence": 0.98,
+    "cell_count": 16,
+    "dot_count": 46,
+    "processing_time": 86.53
+  }
+]
