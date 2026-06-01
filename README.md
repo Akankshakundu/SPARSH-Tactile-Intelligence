@@ -156,6 +156,21 @@ python inference.py --source sample_inputs/test_braille.jpg --weights backend/mo
 
 ## 📊 Dataset Details
 
+### Dataset Download
+
+Due to GitHub file-count and storage limitations, the complete dataset is hosted on Google Drive.
+
+Dataset Link:
+https://drive.google.com/your-link-here
+
+The dataset includes:
+
+* braille_char_dataset
+* real_braille_photos
+* label_data(Annotated, cells, char_dataset.npz, labels.csv, labels_review_braille8.csv,real_dataset.npz,samples.csv)
+
+Please download the dataset and place the folders in the project root before running training scripts.
+
 ### Primary Dataset: `braille_char_dataset/`
 
 | Property | Value |
