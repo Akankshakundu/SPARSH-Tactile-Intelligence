@@ -167,7 +167,7 @@ The dataset includes:
 
 * braille_char_dataset
 * real_braille_photos
-* label_data(Annotated, cells, char_dataset.npz, labels.csv, labels_review_braille8.csv,real_dataset.npz,samples.csv)
+* label_data(Annotated, cells, char_dataset.npz, real_dataset.npz,samples.csv)
 
 Please download the dataset and place the folders in the project root before running training scripts.
 
