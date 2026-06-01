@@ -1,0 +1,19 @@
+# BrailleVision Backend Dependencies
+# Install with: pip install -r requirements.txt
+
+# Web framework
+fastapi
+uvicorn[standard]
+python-multipart      # required for file uploads
+
+# Computer vision
+opencv-python
+numpy
+
+# Text to Speech
+pyttsx3
+gTTS                  # cloud TTS fallback (optional, requires internet)
+
+# Utilities
+pydantic
+websockets
