@@ -109,7 +109,7 @@ braille-vision/
 │
 ├── sample_outputs/                 ← Annotated output images + results.json
 │
-└── braille_char_dataset/           ← 1,560 real Braille character images
+└── docs/
 ```
 
 ---
