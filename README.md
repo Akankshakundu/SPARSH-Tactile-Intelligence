@@ -156,6 +156,20 @@ python inference.py --source sample_inputs/test_braille.jpg --weights backend/mo
 
 ## 📊 Dataset Details
 
+### Dataset Download
+
+Due to GitHub file-count and storage limitations, the complete dataset is hosted on Google Drive.
+
+Dataset Link:
+https://drive.google.com/drive/folders/11GmUOVGc0y7_e8zi2NQoBjvjXFTwgQQE?usp=drive_link
+
+The dataset includes:
+
+* braille_char_dataset
+* real_braille_photos
+
+Please download the dataset and place the folders in the project root before running training scripts.
+
 ### Primary Dataset: `braille_char_dataset/`
 
 | Property | Value |
@@ -322,7 +336,7 @@ Sample outputs (annotated images + `results.json`) are in `sample_outputs/`.
 - [x] Works on real physical Braille inputs (embossed + handwritten)
 - [x] Real-time WebSocket streaming at up to 15fps
 - [x] Line-wise segmentation (handles multi-line pages)
-
+- [x] Dataset download link provided in README
 ---
 
 ## 🗺️ Roadmap
