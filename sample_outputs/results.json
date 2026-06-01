@@ -1,0 +1,106 @@
+[
+  {
+    "image": "sample_inputs\\abc.png",
+    "text": "abc",
+    "cell_count": 3,
+    "dot_count": 5,
+    "confidence": 0.99,
+    "processing_time_ms": 365.74,
+    "lines": [
+      "abc"
+    ],
+    "patterns_by_line": [
+      [
+        "100000",
+        "110000",
+        "100100"
+      ]
+    ],
+    "debug": {
+      "preprocessing": {
+        "selected_variant": "otsu_open",
+        "variants": [
+          {
+            "name": "otsu_open",
+            "score": 54.977,
+            "components": 5.0,
+            "plausible": 5.0,
+            "median_area": 1542.0,
+            "spread": 0.0012708118883892894,
+            "noise": 0.0,
+            "large": 0.0,
+            "density": 0.20715942989724892
+          },
+          {
+            "name": "otsu_open_close",
+            "score": 54.97,
+            "components": 5.0,
+            "plausible": 5.0,
+            "median_area": 1549.0,
+            "spread": 0.001663537579588592,
+            "noise": 0.0,
+            "large": 0.0,
+            "density": 0.20715942989724892
+          },
+          {
+            "name": "adaptive_gaussian",
+            "score": 54.932,
+            "components": 5.0,
+            "plausible": 5.0,
+            "median_area": 1315.0,
+            "spread": 0.0037686729338020086,
+            "noise": 0.0,
+            "large": 0.0,
+            "density": 0.20715942989724892
+          },
+          {
+            "name": "adaptive_mean",
+            "score": 54.934,
+            "components": 5.0,
+            "plausible": 5.0,
+            "median_area": 1562.0,
+            "spread": 0.003644110169261694,
+            "noise": 0.0,
+            "large": 0.0,
+            "density": 0.20715942989724892
+          },
+          {
+            "name": "fixed_200",
+            "score": 54.916,
+            "components": 5.0,
+            "plausible": 5.0,
+            "median_area": 1657.0,
+            "spread": 0.0046809217892587185,
+            "noise": 0.0,
+            "large": 0.0,
+            "density": 0.20715942989724892
+          }
+        ]
+      },
+      "segmentation": {
+        "line_count": 1,
+        "dot_count": 5,
+        "lines": [
+          {
+            "row": 0,
+            "dot_count": 5,
+            "cell_count": 3,
+            "row_centers": [
+              51.0,
+              107.0,
+              163.0
+            ],
+            "column_centers": [
+              85.0,
+              298.0,
+              510.0,
+              566.0
+            ],
+            "within_cell_gap": 134.0,
+            "word_gap": null
+          }
+        ]
+      }
+    }
+  }
+]
